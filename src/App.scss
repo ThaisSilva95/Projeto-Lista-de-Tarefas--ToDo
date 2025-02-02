@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.container{
+  background-color: #2D2D2D;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  
+  
+  
+
+    h1{
+      padding-top: 150px;
+      font-family: "Poppins", serif;
+      font-size: 30px;
+      font-weight: 500;
+    }
+
+    .text-to-dos{
+      display: flex;
+      gap: 170px;
+      text-align: center;
+      align-items: center;
+      padding-top: 80px;
+      justify-content: center;
+      font-weight: 800;
+
+
+        border-bottom: 2px solid white; 
+        width: 50%; 
+        margin: 0 auto; 
+        padding-bottom: 10px; 
+
+      h2{
+        font-family: "Raleway", "serif";
+       
+      }
+
+      .status{
+        margin-left: 50px;
+      }
+    }
+
+    .todo {
+      display: flex;
+      justify-content: center;
+      justify-items: center;
+      gap: 190px;
+      margin-top: 10px;
+      
+    }
+
+    .content{
+      font-family: "Raleway", "serif";
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 150px;
+      min-width: 150px;
+      text-align: start;
+      margin-left: 30px;
+      
+    }
+
+    .box {
+
+      input{
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        width: 15px;
+        height: 15px;
+        border: 2px solid white;
+        border-radius: 4px;
+        background-color: transparent;
+        position: relative;
+        cursor: pointer;
+       
+        
+      }input:checked::before {
+        content: '';
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        width: 7px;
+        height: 7px;
+        background-color: white;
+        border-radius: 2px;
+      }
+
+      input:focus {
+        outline: none;
+      }
+
+    }
+    .icons {
+
+      button {
+      border: none;
+      background: transparent;
+      padding: 0;
+      cursor: pointer;
+      margin-right: 20px;
+     
+      
+     }
+
+     .icon-1 {
+      padding: 0 5px 0 5px;
+      outline: none;
+      
+     }
+
+     .icon-2 {
+      padding: 0 5px 0 5px;
+      outline: none;
+      
+     }
+
+     
+    }
+    .new-todo{
+      color: white;
+      font-size: 20px;
+      font-family: "Raleway", "serif";
+      display: flex;
+      justify-content: center;
+      gap: 330px;
+      margin-top: 10px;
+      margin-bottom: 100px;
+      
+
+      input {
+        background: transparent;
+        border: none;
+        font-size: 20px;
+        font-family: "Raleway", "serif";
+        outline: none;
+        color: white;
+        text-align: start;
+
+        ::placeholder{
+          color: white;
+          opacity: 1;
+        }
+      }
+
+      button{
+        border: none;
+        background: transparent;
+        padding: 0;
+        cursor: pointer;
+        color: white;
+        font-size: 25px;
+        font-family: "Raleway", "serif";
+        font-weight: 600;
+        outline: none;
+      
+       }
+    }
+   
+
+    
+}
+
+
