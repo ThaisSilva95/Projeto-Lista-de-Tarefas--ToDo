@@ -28,7 +28,8 @@
 
 # 📊 Resultados
 
-    O projeto oferece uma solução prática para o dia a dia, garantindo uma experiência intuitiva e fluida. O uso de React melhora a performance e responsividade, tornando o gerenciamento de tarefas mais eficiente.
+    O projeto oferece uma solução prática para o dia a dia, garantindo uma experiência intuitiva e fluida.
+    O uso de React melhora a performance e responsividade, tornando o gerenciamento de tarefas mais eficiente.
 
 # 🛠 Como Executar o Projeto
 
