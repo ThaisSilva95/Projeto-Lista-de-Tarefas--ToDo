@@ -27,8 +27,11 @@ O projeto foi criado utilizando React, proporcionando uma interface responsiva e
 🔹 Principais Características:
     
 🔹 Componentes reutilizáveis para facilitar a manutenção do código
+
 🔹 Gerenciamento de estado para controle dinâmico das tarefas
+
 🔹 Uso de modais para confirmação de edição e exclusão
+
 🔹 Design minimalista focado na usabilidade
 
 # 📊 Resultados
