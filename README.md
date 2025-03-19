@@ -1,7 +1,6 @@
 # 📌 Lista de Tarefas - React & JavaScript
 
 Seja bem-vindo! Este é um projeto de Lista de Tarefas desenvolvido com React e JavaScript.
-Copie e cole este README no seu repositório para documentar o projeto de forma clara e organizada.
 
 # Demo
 https://project-todo-kappa.vercel.app/
@@ -70,7 +69,7 @@ npm start
 # 🤝 Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. 
- Basta abrir uma issue ou pull request no repositório.
+Basta abrir uma issue ou pull request no repositório.
 
 💡 Qualquer sugestão é bem-vinda!
 
