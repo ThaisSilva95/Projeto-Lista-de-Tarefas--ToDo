@@ -9,10 +9,15 @@ Este projeto tem como objetivo oferecer uma ferramenta simples e eficaz para org
 
 # 📝 Funcionalidades:
 ✔ Adicionar novas tarefas
+
 ✔ Editar tarefas existentes
+
 ✔ Marcar tarefas como concluídas
+
 ✔ Excluir tarefas
+
 ✔ Confirmação via modal para edição e exclusão
+
 ✔ Interface limpa e fácil de utilizar
 
 # 🚀 Desenvolvimento
